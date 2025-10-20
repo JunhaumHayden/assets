@@ -29,7 +29,7 @@
 Repositório centralizado para assets do projeto 
 
 
-![Acesso aqui](https://junhaumhayden.github.io/assets/)
+[Acesso aqui](https://junhaumhayden.github.io/assets/)
 
 
 ---
